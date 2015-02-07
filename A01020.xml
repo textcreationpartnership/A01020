@@ -135,42 +135,44 @@
                   <p>Englished by. I. M. of Magdalen Colledge in Oxford.</p>
                   <p>LONDON Printed by <hi>Adam Islip</hi> Anno Domini. <hi>1629.</hi>
                   </p>
-                  <figure>
-                     <head>HVMILITIE</head>
-                  </figure>
-                  <figure>
-                     <head>REPENTANC<gap reason="illegible" extent="1 letter">
-                           <desc>•</desc>
-                        </gap>
-                     </head>
-                  </figure>
-                  <figure>
-                     <head>Matt. 4.1.</head>
-                  </figure>
-                  <figure>
-                     <head>Matt. 26.69.</head>
-                  </figure>
-                  <figure>
-                     <head>Luke 7.11.</head>
-                  </figure>
-                  <figure>
-                     <head>Iohn 11.1.</head>
-                  </figure>
-                  <figure>
-                     <head>Matt. 28.6.</head>
-                  </figure>
-                  <figure>
-                     <head>Matt. 17.1.</head>
-                  </figure>
-                  <figure>
-                     <head>Marke 6.47.</head>
-                  </figure>
-                  <figure>
-                     <head>Iohn 4.5.</head>
-                  </figure>
-                  <figure>
-                     <head>Matt. 27.38</head>
-                  </figure>
+                  <p>
+                     <figure>
+                        <head>HVMILITIE</head>
+                     </figure>
+                     <figure>
+                        <head>REPENTANC<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </head>
+                     </figure> 
+                     <figure>
+                        <head>Matt. 4.1.</head>
+                     </figure> 
+                     <figure>
+                        <head>Matt. 26.69.</head>
+                     </figure>
+                     <figure>
+                        <head>Luke 7.11.</head>
+                     </figure>
+                     <figure>
+                        <head>Iohn 11.1.</head>
+                     </figure>
+                     <figure>
+                        <head>Matt. 28.6.</head>
+                     </figure>
+                     <figure>
+                        <head>Matt. 17.1.</head>
+                     </figure>
+                     <figure>
+                        <head>Marke 6.47.</head>
+                     </figure>
+                     <figure>
+                        <head>Iohn 4.5.</head>
+                     </figure>
+                     <figure>
+                        <head>Matt. 27.38</head>
+                     </figure>
+                  </p>
                </figure>
             </p>
          </div>
